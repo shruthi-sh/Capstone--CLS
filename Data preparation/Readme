@@ -1,1 +1,4 @@
 Code to obtain the dataset in standard format.
+Initilly the CNN/Dailymail dataset was collected in form of (.sent) and (.summ) file
+converted to csv with header ['Document', 'English_Summary']
+Used Google translate tool to convert the summary to kannada, collect in form of (.txt) file and updated later to final csv file.
