@@ -4,3 +4,4 @@ btest_final.csv --> Results of BART summarization model further used in BART_LST
 coK.csv --> Results of coRank summarization model further used in coRank_LSTM.ipynb and coRank_GT.ipynb
 lbK.csv --> Results of linBlimes summarization model further used in linBlimes_LSTM.ipynb and linBlimes_GT.ipynb
 sfK.csv --> Results of simfusion summarization model further used in simfusion_LSTM.ipynb and simfusion_GT.ipynb
+ptest_final.csv --> Results of  PEGASUS summarization model further used in PEGASUS_LSTM.ipynb and PEGASUS_GT.ipynb
