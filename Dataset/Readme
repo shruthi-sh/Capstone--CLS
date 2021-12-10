@@ -1,3 +1,5 @@
 Training set can be accessed at: https://drive.google.com/file/d/1D_5v7FUuLqWr7qOqB10Y0WoFNPTgOSQv/view?usp=sharing
 
-btest_final.csv --> Results of BART summaization model further used in BART_LSTM.ipynb and BART_GT.ipynb
+btest_final.csv --> Results of BART summarization model further used in BART_LSTM.ipynb and BART_GT.ipynb
+coK.csv --> Results of coRank summarization model further used in coRank_LSTM.ipynb and coRank_GT.ipynb
+.csv --> Results of BART summarization model further used in BART_LSTM.ipynb and BART_GT.ipynb
