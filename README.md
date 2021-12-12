@@ -1,6 +1,6 @@
 # Capstone--CLS
 CLS (Eng to Kannada)
-Project Abstract:
+**Project Abstract:**
 
 The application of Natural Language Processing to summarization and machine translation has been accelerating in the past years. One of them is Cross-Lingual Summarization (CLS), which produces a summary for an input document in a different language.Current methods divide the CLS into two methods: summarization(Abstractive or Extractive) and translation.CLS helps people understand an article’s gist in an unfamiliar language by translating its summary to their familiar language.
 
@@ -9,7 +9,7 @@ Although there has been tremendous progress in summarization in recent years, mo
 
 
 
-Code Execution:
+**Code Execution:**
 
 Open File name → Testing_Pegasus_LSTM_CLS.ipynb in Google Colab 
 
