@@ -11,12 +11,9 @@ Although there has been tremendous progress in summarization in recent years, mo
 
 **Code Execution:**
 
-Open File name → Testing_Pegasus_LSTM_CLS.ipynb in Google Colab 
-
-
-Click on links above mentioned in “Testing_Pegasus_LSTM_CLS.ipynb” file and add shortcut for each file to your Google Drive (/Mydrive)
-Run all the cells 
-Give access to mount the drive to Google colab.
-Enter input text(i.e. the news article to be summarized) when the cell below is reached.
-
-The output Kannada summary will be printed. 
+1) Open File name → Testing_Pegasus_LSTM_CLS.ipynb in Google Colab 
+2) Click on links mentioned for Dataset,Fasttext Embedding, Checkpoint in “Testing_Pegasus_LSTM_CLS.ipynb” file and add shortcut for each file to your Google Drive (/Mydrive)
+3) Run all the cells 
+4) Give access to mount the drive to Google colab.
+5) Enter input text(i.e. the news article to be summarized) when respective cell is reached.
+6) The output Kannada summary will be printed. 
